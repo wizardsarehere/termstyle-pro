@@ -1,0 +1,34 @@
+{
+  "name": "termstyle-pro",
+  "version": "1.0.0",
+  "description": "The most comprehensive and powerful terminal styling library with extensive color support, gradients, animations, and special effects",
+  "main": "brighten.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "colors",
+    "terminal",
+    "styling",
+    "ansi",
+    "console",
+    "cli",
+    "command-line",
+    "text-effects",
+    "gradient",
+    "rainbow",
+    "neon",
+    "animation",
+    "3d-text",
+    "gradients",
+    "effects",
+    "themes",
+    "terminal-styling",
+    "console-styling",
+    "text-decoration",
+    "text-effects"
+  ],
+  "author": "WizardHere",
+  "license": "MIT"
+}
