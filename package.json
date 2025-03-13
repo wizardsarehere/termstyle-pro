@@ -1,34 +1,24 @@
 {
-  "name": "termstyle-pro",
+  "name": "wizardhere",
   "version": "1.0.0",
-  "description": "The most comprehensive and powerful terminal styling library with extensive color support, gradients, animations, and special effects",
-  "main": "brighten.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "demo": "node demo.js"
+    "start": "node index.js"
   },
-  "keywords": [
-    "colors",
-    "terminal",
-    "styling",
-    "ansi",
-    "console",
-    "cli",
-    "command-line",
-    "text-effects",
-    "gradient",
-    "rainbow",
-    "neon",
-    "animation",
-    "3d-text",
-    "gradients",
-    "effects",
-    "themes",
-    "terminal-styling",
-    "console-styling",
-    "text-decoration",
-    "text-effects"
-  ],
   "author": "WizardHere",
-  "license": "MIT"
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "axios": "^0.24.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^13.16.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "5.13.5",
+    "ms": "^2.1.3",
+    "parse-ms": "^2.1.0",
+    "termstyle-pro": "^1.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
 }
