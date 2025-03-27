@@ -4,7 +4,7 @@
   "description": "The most comprehensive and powerful terminal styling library with extensive color support, gradients, animations, and special effects",
   "main": "termstyle.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node termstyle.js"
   },
   "homepage": "https://github.com/wizardsarehere/termstyle-pro",
   "keywords": [
